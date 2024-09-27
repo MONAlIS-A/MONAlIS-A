@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Monalisa
-- 👀 I’m enthusiasted in Data Scientist
+- 👀 I’m enthusiast in Data Scientist
 
 
 <!---
