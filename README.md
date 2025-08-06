@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monalisa</h1>
-<h3 align="center">a A full-stack Django developer and aspiring data analyst based in Dhaka, Bangladesh.</h3>
+<h3 align="center"> A full-stack Django developer and aspiring data analyst based in Dhaka, Bangladesh.</h3>
 
 
 <p align="left">
