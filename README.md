@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monalisa</h1>
-<h3 align="center"> A full-stack Django developer and aspiring data analyst based in Dhaka, Bangladesh.</h3>
+<h3 align="center"> I’m an aspiring <b> AI Engineer </b> who loves exploring machine learning, debugging tricky models, and turning technical ideas into clear communication. My passion is building smart systems that tackle real-world challenges while making complex concepts easy to understand for everyone.</h3>
 
 
 <p align="left">
