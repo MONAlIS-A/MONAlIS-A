@@ -1,10 +1,71 @@
-<h1 align="center">Hi 👋, I'm Monalisa</h1>
-<h3 align="center"> I’m an aspiring <b> AI Engineer </b> who loves exploring machine learning, debugging tricky models, and turning technical ideas into clear communication. My passion is building smart systems that tackle real-world challenges while making complex concepts easy to understand for everyone.</h3>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">🚀 Python Developer | AI Engineer | Data Specialist</h3>
 
+---
 
-<p align="left">
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **AI & Automation Projects**
+- 🌱 I specialize in **Machine Learning, Data Engineering & Django**
+- 💼 2+ years experience in **Python & AI Automation**
+- 🎯 Goal: Build scalable AI systems & automation workflows
+- ⚡ Fun fact: I love solving real-world problems using AI
+
+---
+
+## 🧠 Skills & Expertise
+
+### 👨‍💻 Programming & Development
+- Python
+- Django & Django REST Framework
+- API Development
+
+### 📊 Data Engineering & Analysis
+- Data Engineering
+- Data Analysis (Pandas, NumPy)
+- Data Visualization
+
+### 🤖 AI & Machine Learning
+- Machine Learning
+- Deep Learning (Basics)
+- AI Engineering
+
+### ⚙️ Automation
+- AI Automation
+- Workflow Automation (n8n, Zapier)
+- AI Agents Development
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **Frameworks:** Django, FastAPI
+- **Tools:** Git, Docker, n8n, Airflow
+- **Databases:** PostgreSQL, MySQL
+- **Cloud (Basic):** AWS / GCP
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+## 🌐 Connect with Me
+- 💼 LinkedIn: [Your LinkedIn Link]
+- 📧 Email: your@email.com
+- 🌍 Portfolio: [Your Website]
+
+---
+
+## 🚀 Featured Projects
+- 🤖 AI Automation System
+- 📊 Data Analysis Dashboard
+- 🌐 Django REST API Project
+- 🧠 Machine Learning Model Deployment
+
+---
+
+⭐️ From Monalisa
