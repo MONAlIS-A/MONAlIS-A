@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Python Developer | AI Engineer | Data Specialist</h3>
+<h1 align="center">Hi 👋, I'm Monalisa</h1>
+<h3 align="center">🚀 Python Developer | AI Engineer | Data Specialist | Django Developer | Data Scientist</h3>
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### 🤖 AI & Machine Learning
 - Machine Learning
-- Deep Learning (Basics)
+- Deep Learning 
 - AI Engineering
 
 ### ⚙️ Automation
@@ -37,11 +37,11 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, R, C , C++
 - **Frameworks:** Django, FastAPI
 - **Tools:** Git, Docker, n8n, Airflow
 - **Databases:** PostgreSQL, MySQL
-- **Cloud (Basic):** AWS / GCP
+- **Cloud (Basic):** AWS , Pythonanywhere, Render
 
 ---
 
@@ -54,10 +54,9 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 📧 Email: your@email.com
-- 🌍 Portfolio: [Your Website]
-
+- 💼 LinkedIn: https://www.linkedin.com/in/monalisa-monalisa-5a9b833a2
+- 📧 Email: monalisamonalisa577@gmail.com
+  
 ---
 
 ## 🚀 Featured Projects
