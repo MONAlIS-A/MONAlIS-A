@@ -174,7 +174,7 @@ Worked on AI-powered backend systems, automation, search, personalization, metad
 
 ## 🔗 Connect
 
-* 💼 LinkedIn: [LinkedIn]https://www.linkedin.com/in/monalisa-monalisa-5a9b833a2/?skipRedirect=true
+* 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/monalisa-monalisa-5a9b833a2/?skipRedirect=true)
 * 📧 Email: monalisamonalisa577@gmail.com
 
 ---
