@@ -89,7 +89,7 @@ Building a production-oriented RAG system with:
 
 **Focus:** Retrieval quality · Reliability · Evaluation · Performance
 
-**Repository → [Project Repository]([YOUR_PROJECT_URL](https://github.com/MONAlIS-A/enterprise-rag-platform.git))**
+**Repository → [Project Repository](https://github.com/MONAlIS-A/enterprise-rag-platform.git)**
 
 ---
 
