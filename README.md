@@ -1,8 +1,12 @@
-# Hi 👋, I'm Monalisa
+<h1 align="center">Hi 👋, I'm Monalisa</h1>
 
-**AI Engineer | Applied AI | Backend & Production Engineering**
+<p align="center">
+  <strong>AI Engineer | Applied AI | Backend & Production Engineering</strong>
+</p>
 
-Building intelligent systems by combining AI, software engineering, and production-focused system design.
+<p align="center">
+  Building intelligent, reliable, and scalable systems through problem-driven engineering.
+</p>
 
 I focus on solving real-world problems through the right engineering approach — whether that's traditional software, machine learning, or LLM-based systems.
 
